@@ -698,8 +698,8 @@ a {
 }
 .testimonial .card .image {
   position: absolute;
-  right: -5px;
-  top: -10px;
+    right: -7px;
+    top: -20px;
 }
 .testimonial .card .image img {
   max-width: 100%;
