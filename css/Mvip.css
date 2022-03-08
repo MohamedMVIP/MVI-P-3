@@ -396,7 +396,7 @@ a {
 }
 .landing a i {
   position: absolute;
-  bottom: -120px;
+  bottom: -100px;
   left: 50%;
   transform: translateX(-50%);
   font-size: 27px;
